@@ -1,8 +1,6 @@
 # 🎨 Array Input App  
 
-A simple, clean web project where users can dynamically add numbers to an array. This app features a smooth UI with a soft pastel color theme and real-time updates. 🚀  
-
-![Project Screenshot](https://via.placeholder.com/800x400)  
+A simple, clean web project where users can dynamically add numbers to an array. This app features a smooth UI with a soft pastel color theme and real-time updates. 🚀   
 
 ---
 
